@@ -1,0 +1,32 @@
+body{
+    background: #ebd9b6;
+    margin: 0; 
+}
+
+#main-div{
+    background: #b58a96;
+    width: 70%;
+    height: 600px;
+    margin-left: 15%;
+
+}
+
+#name{
+    color: #3c0630;
+    text-align: center;
+    /* border: solid #000000 5px; */
+     /* margin-top: 10px; */
+    padding-top: 25px;
+    font: 'serif';
+    font-size: 48px;
+    font-weight: 700; 
+}
+
+hr{
+    width: 90%;
+    margin-left: 5%;
+}
+
+img{
+    width:200px;
+}
